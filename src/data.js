@@ -3,7 +3,7 @@ const data = {
     subHeading: 'Multi-Day Course',
     paragraph: 'In this 5 day class we will explore artists Monet, Matisse, Van Gogh, among others and them recreate paintings using crayon and watercolor. Students will have fun learning about this artists & creating their own art inspired by their work',
     author:{
-        image:'',
+        image:'https://media.istockphoto.com/photos/its-the-weekend-whats-not-to-smile-about-picture-id538567042?s=612x612',
         name:'Kimberly R Moseler'
     },
     paintings:[
